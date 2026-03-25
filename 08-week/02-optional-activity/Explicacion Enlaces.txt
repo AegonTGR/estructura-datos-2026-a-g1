@@ -1,0 +1,11 @@
+Explicación:
+
+Cabeza de la lista: El primer nodo (Dania) es la cabeza de la lista, y apunta al siguiente nodo (Valentina).
+
+Enlace entre nodos: Cada nodo contiene el nombre de un estudiante y un enlace al siguiente nodo.
+
+Último nodo: El último nodo (Elizabeth) apunta a NULL, indicando que no hay más nodos.
+
+Dinámica: La lista enlazada es dinámica porque no tiene un tamaño fijo, los nodos se crean y eliminan según sea necesario. No es necesario predefinir el tamaño de la estructura, ya que cada nodo está conectado de manera flexible a través de enlaces.
+
+Flexibilidad: Los nodos se pueden agregar o eliminar de manera eficiente, sin necesidad de reorganizar toda la estructura.
